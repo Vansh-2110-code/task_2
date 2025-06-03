@@ -1,7 +1,5 @@
 # Task 2 – Data Visualization and Storytelling 
 
-This project is part of a Data Analyst internship task focused on storytelling through data visualization using Power BI.
-
 ##  Dataset
 - **File Used**: `train.csv` (Superstore Sales Data)
 
