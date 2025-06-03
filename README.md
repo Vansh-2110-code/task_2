@@ -24,8 +24,3 @@ To analyze sales data and create compelling visualizations that provide actionab
 
 ##  Tool Used
 - **Power BI Desktop**
-
-## Deliverables
-- `train.csv` – Dataset used
-- `dashboard.png` – Screenshot of final dashboard
-- `README.md` – Project description and insights
