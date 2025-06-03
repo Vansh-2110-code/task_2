@@ -9,9 +9,9 @@ To analyze sales data and create compelling visualizations that provide actionab
 ##  Visualizations Created
 1. **Line Chart** – Monthly Sales Trend
 2. **Pie Chart** – Sales Distribution by Region
-3. **Donut Chart** – Sales by Segment and Region
-4. **Stacked Bar Chart** – Segment-wise Sales by Region
-5. **Grouped Bar Chart** – Sales by Category and Ship Mode
+3. **Stacked Bar Chart** – Segment-wise Sales by Region
+4. **Grouped Bar Chart** – Sales by Category and Ship Mode
+5. **Grouped Column Chart**- Sales by State and Sub-Category
 
 ##  Key Insights
 - October and December had the highest sales volumes.
